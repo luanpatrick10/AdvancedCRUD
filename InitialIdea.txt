@@ -1,0 +1,7 @@
+First, sorry with my english it its not very good. 
+
+Create a system that is agenda of contacts Is this agenda we have to do be possible to create a contacts that have: 
+Name,Email,date of birth,Cell Phone,Address optionally
+
+Have to be posible to create,reading,update and remove this contact of agenda.
+have to be posbile to send a message to the contact if he accept the invite.
