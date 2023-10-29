@@ -34,6 +34,7 @@ namespace AdvancedCRUD.Tests.EntitiesTest
         {
             string name = "Teste Name";
             string email = "test@teste.com";
+            string emailUm = "test@teste.com";
             string cellPhone = "555-555-555";
             Address address = new Address();
             var people = new People(name, email, cellPhone, address);
